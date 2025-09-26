@@ -1,5 +1,5 @@
 # 12v_dps
-A 12V Dual Power Supply for Small Eurorack Systems
+A 12V Dual Power Supply for Small Eurorack Systems powered by USB-C.
 # Instructions etc.
 Still work in progress ...
 # License
