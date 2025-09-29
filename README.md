@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">POW12</h1>
 
-<h1 align="center">A 12V Dual Power Supply for Small Eurorack Systems powered by USB-C.</h1>
+<p align="center">A 12V Dual Power Supply for Small Eurorack Systems powered by USB-C.</p>
+
 # Instructions etc.
 Still work in progress ...
 # License
