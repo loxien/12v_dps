@@ -5,8 +5,9 @@
 
 <p align="center">A 12V Dual Power Supply for Small Eurorack Systems powered by USB-C.</p>
 
-# Instructions etc.
+# Documentation
 Still work in progress ...
+
 # License
 This project is made available under a CC-BY-NC-SA-3.0 license.
 
